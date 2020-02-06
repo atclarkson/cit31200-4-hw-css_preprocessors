@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  background-color: #f2f0ed;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1e2b31;
+}
+nav ul li {
+  float: left;
+}
+nav ul li:hover {
+  background-color: #a68c66;
+}
+nav ul li a {
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav ul .active {
+  background-color: #c62a2f;
+}
+footer {
+  background-color: #1e2b31;
+}
+footer nav.social {
+  display: table;
+  margin: 0 auto;
+}
+footer nav.social ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1e2b31;
+}
+footer nav.social ul li {
+  display: inline;
+  text-align: center;
+}
+footer nav.social ul li:hover {
+  background-color: #a68c66;
+}
+footer nav.social ul li a {
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+footer nav.social ul .active {
+  background-color: #c62a2f;
+}
+.box-1 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  border: solid 2px black;
+}
+.box-2 {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  border: solid 2px black;
+}
+.box-3 {
+  background-color: green;
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
+  border: solid 2px black;
+}
+.box-4 {
+  background-color: purple;
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  border: solid 2px black;
+}
+.bordered-box {
+  border-radius: 8px;
+  border: solid 2px black;
+}
+/*# sourceMappingURL=style.css.map */

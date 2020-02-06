@@ -1,0 +1,20 @@
+@boxes: {
+  red: 100px;
+  blue: 200px;
+  green: 250px;
+  purple: 50px;
+}
+
+each(@boxes, {
+  .box-@{index} {
+    background-color: @key;
+    width: @value;
+    height: @value;
+    .bordered-box();
+  }
+});
+
+.bordered-box {
+  border-radius: 8px;
+  border: solid 2px black;
+}

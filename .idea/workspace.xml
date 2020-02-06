@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a245932-95dd-45f8-ade2-1c291816c421" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="LESS" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPLeDLwdDpC9vMbgFRhl7Sn4J9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.16.3/lib/node_modules/prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a245932-95dd-45f8-ade2-1c291816c421" name="Default Changelist" comment="" />
+      <created>1580942875412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580942875412</updated>
+      <workItem from="1580942876867" duration="4021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="894" y="505" key="EditFileWatcherDialog" timestamp="1580943289759">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="894" y="505" key="EditFileWatcherDialog/0.0.2560.1440/-1920.836.1920.1080/2560.1024.1920.1200@0.0.2560.1440" timestamp="1580943289759" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1580943243088">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440/-1920.836.1920.1080/2560.1024.1920.1200@0.0.2560.1440" timestamp="1580943243088" />
+  </component>
+</project>

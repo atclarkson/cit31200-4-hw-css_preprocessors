@@ -1,0 +1,37 @@
+footer {
+  background-color: @dark-shade-color;
+  
+  nav.social {
+    display: table;
+    margin: 0 auto;
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: @dark-shade-color;
+
+      li {
+        display: inline;
+        text-align: center;
+
+        &:hover {
+          background-color: @dark-accent-color;
+        }
+
+        a {
+          display: block;
+          color: whitesmoke;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+      }
+
+      .active {
+        background-color: @primary-color;
+      }
+    }
+  }
+}
